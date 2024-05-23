@@ -1,0 +1,11 @@
+# Ignore the venv directory
+aspireApp/
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
